@@ -20,7 +20,7 @@ Currently, I am seeking opportunities in Data Analyst and Data Science roles whe
   <a href="https://www.linkedin.com/in/rohit-virdi-62675a3b3?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="rohitvirdi5rv@gmail.com">
+  <a href="mailto:rohitvirdi5rv@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
